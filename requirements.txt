@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+opencv-python
+mediapipe
+pycaw.pycaw
+math
+time
+comtypes
+numpy
+
+
